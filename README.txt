@@ -1,4 +1,4 @@
-!! You will need Google Cloud (for text ot speech token)!!
+!! You will need Google Cloud (for the text-to-speech token)!!
 
 anotherone.bat serves to log into the chatgpt session, without being logged into a session
 you will not be able to receive replies from ChatGpt
